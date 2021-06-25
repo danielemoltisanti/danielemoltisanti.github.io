@@ -1,27 +1,42 @@
 .rw-launcher {
-  background-color: #72a492
+  background-color: #4fc7b5;
+  height: 120px;
+  width: 120px;
 }
 
 .rw-conversation-container .rw-header {
-  background-color: #72a492
+  background-color: #4fc7b5
 }
 
 .rw-conversation-container .rw-title {
-  background-color: #72a492;
-  color: #2c5370
+  background-color: #4fc7b5;
+  color: #ffffff;
+  /* color: #2c5370 */
 }
 
 .rw-conversation-container .rw-client {
-  background-color: #72a492
+  background-color: #4fc7b5
 }
 
 .rw-conversation-container .rw-reply {
-  background-color: #72a492
+  background-color: #4fc7b5
 }
 
 .rw-conversation-container .rw-send .rw-send-icon-ready {
-  fill: #72a492
+  fill: #4fc7b5
 }
 
-/* Cattolica Blue: 2c5370 */
-/* BLUE: 147cb6 */
+li {
+    color: #626262;
+    font: 400 0.875rem/1.375rem "Raleway", sans-serif;
+}
+
+/* Cattolica Cyan: 4fc7b5 */
+
+a.cattolica_cyan {
+	color: #4fc7b5;
+}
+
+.cattolica_cyan {
+	color: #4fc7b5;
+}
